@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+slowapi
+networkx
+streamlit
+requests
+pyvis
+faker
